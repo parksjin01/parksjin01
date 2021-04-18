@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 Site for study
-- https://learngitbranching.js.org/?locale=ko
+- Github: https://learngitbranching.js.org/?locale=ko
